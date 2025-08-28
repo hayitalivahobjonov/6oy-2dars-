@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function App() {
   let b = 921.48;
   let x = [
@@ -15,6 +16,8 @@ function App() {
       m = x[i].a;
     }
   }
+=======
+>>>>>>> e4f2a78488a442c767a97f19f34bcc1e100d3362
 
   let t = 0;
   let y = "";
